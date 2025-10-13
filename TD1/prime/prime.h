@@ -1,8 +1,10 @@
-//
-// Created by Guillaume on 12/10/2025.
-//
+#ifndef PRIME_H
+#define PRIME_H
 
-#ifndef TD_ALGORITHM_AND_DATA_STRUCTURE_PRIME_H
-#define TD_ALGORITHM_AND_DATA_STRUCTURE_PRIME_H
+#include <stdbool.h>
 
-#endif //TD_ALGORITHM_AND_DATA_STRUCTURE_PRIME_H
+bool estPremier(int num);
+int compterPrimes(int n);
+int compterPrimesEfficient(int n);
+
+#endif
