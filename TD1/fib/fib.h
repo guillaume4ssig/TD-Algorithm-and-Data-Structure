@@ -1,8 +1,7 @@
-//
-// Created by Guillaume on 12/10/2025.
-//
+#ifndef FIB_H
+#define FIB_H
 
-#ifndef TD_ALGORITHM_AND_DATA_STRUCTURE_FIB_H
-#define TD_ALGORITHM_AND_DATA_STRUCTURE_FIB_H
+int FibonacciNaive(int n);
+int FibonacciDyn(int n);
 
-#endif //TD_ALGORITHM_AND_DATA_STRUCTURE_FIB_H
+#endif
