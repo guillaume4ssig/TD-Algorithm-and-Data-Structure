@@ -3,9 +3,9 @@
 void swap_int(int *a, int *b)
 {
     // swap two elements
-    int var_tampon = int *a
-    int *a = int *b
-    int *b = var_tampon
+    int var_tampon = *a;
+    *a = *b;
+    *b = var_tampon;
 }
 
 bool is_sorted_nondecreasing(int *arr, int n)
