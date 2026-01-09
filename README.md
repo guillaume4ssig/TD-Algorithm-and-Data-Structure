@@ -6,7 +6,7 @@ Ce dépôt regroupe des exercices de **travaux dirigés** en algorithmique et st
 
 SCHOSSIG Guillaume (1A IR) 2025–2026
 
-## 📂 Organisation du dépôt
+## Organisation du dépôt
 
 ### TD1 – Introduction à l’algorithmique
 - PDF de TD
@@ -41,6 +41,3 @@ SCHOSSIG Guillaume (1A IR) 2025–2026
 ### TD7 – LeetCode
 - Maximum Population Year
 - Word Search
-
----
-
