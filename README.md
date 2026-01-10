@@ -1,4 +1,4 @@
-# TD – Algorithmique & Structures de Données
+# TD Algorithmique & Structures de Données
 
 Ce dépôt regroupe des exercices de **travaux dirigés** en algorithmique et structures de données, implémentés en **C**.
 
